@@ -1,4 +1,7 @@
-    /* heart emoji */
+*{
+    scroll-behavior: smooth;
+}
+/* heart emoji */
 .heart{
     color: red;
 }
